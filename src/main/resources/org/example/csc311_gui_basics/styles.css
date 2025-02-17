@@ -1,0 +1,6 @@
+.rotated-label {
+    -fx-rotate: 15; /* Rotates the text */
+    -fx-font-size: 18px;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
